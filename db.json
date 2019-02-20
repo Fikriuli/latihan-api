@@ -1,0 +1,125 @@
+{
+ "mahasiswa":
+  [{
+  "id": 1,
+  "name": "Hector Jerrems",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Stepha Longstaffe",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Lionello Birbeck",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Shela Dedon",
+  "gender": "Female"
+}, {
+  "id": 5,
+  "name": "Peggie Dudden",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Patience Nolin",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Conway Slopier",
+  "gender": "Male"
+}, {
+  "id": 8,
+  "name": "Carley Denidge",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "name": "Sheri Peirpoint",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Hobey Huddlestone",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Cass Cornell",
+  "gender": "Male"
+}, {
+  "id": 12,
+  "name": "Genia Dawidsohn",
+  "gender": "Female"
+}, {
+  "id": 13,
+  "name": "Dorine Salkeld",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Price O'Suaird",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Dale Corris",
+  "gender": "Male"
+}, {
+  "id": 16,
+  "name": "Aleta Jotcham",
+  "gender": "Female"
+}, {
+  "id": 17,
+  "name": "Barbara-anne Gabriely",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "name": "Domeniga Inglis",
+  "gender": "Female"
+}, {
+  "id": 19,
+  "name": "Katrina Gauvin",
+  "gender": "Female"
+}, {
+  "id": 20,
+  "name": "Donavon Glencrosche",
+  "gender": "Male"
+}, {
+  "id": 21,
+  "name": "Eldin Moggie",
+  "gender": "Male"
+}, {
+  "id": 22,
+  "name": "Jena Berryann",
+  "gender": "Female"
+}, {
+  "id": 23,
+  "name": "Joey Hovert",
+  "gender": "Female"
+}, {
+  "id": 24,
+  "name": "Joyan Espinola",
+  "gender": "Female"
+}, {
+  "id": 25,
+  "name": "Nathan Willers",
+  "gender": "Male"
+}, {
+  "id": 26,
+  "name": "Theodosia Grinval",
+  "gender": "Female"
+}, {
+  "id": 27,
+  "name": "Hugh Chazette",
+  "gender": "Male"
+}, {
+  "id": 28,
+  "name": "Tish Poncet",
+  "gender": "Female"
+}, {
+  "id": 29,
+  "name": "Debora Spirit",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "name": "Oralle Mathivet",
+  "gender": "Female"
+}]
+ 
+}
